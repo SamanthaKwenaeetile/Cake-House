@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Montserrat:ital,wght@1,100&display=swap');
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+    outline: none;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Comforter Brush', cursive;
+}
+
+p{
+    margin-bottom: 15px;
+    font: size 20px;
+    line-height: 20px;
+    color:rgb(204, 180, 151);
+}
+
+.main_container{
+    position: relative;
+}
+
+.navbar{
+    width: 100%;
+    width: 65%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo a{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 34px;
+    color: rgb(172, 56, 56);
+}
+
+.navbar .navbar_list ul{
+    display: flex;
+
+}
+.navbar .navbar_list ul li{
+    text-transform: uppercase;
+    margin: 0 10px;
+}
