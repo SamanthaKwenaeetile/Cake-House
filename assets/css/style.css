@@ -6,7 +6,7 @@
     outline: none;
     list-style: none;
     text-decoration: none;
-    font-family: 'Comforter Brush', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 p{
@@ -14,6 +14,25 @@ p{
     font: size 20px;
     line-height: 20px;
     color:rgb(204, 180, 151);
+}
+h1.title{
+    margin-bottom: 20px;
+    color:indianred;
+    font-family: 'Comforter Brush', cursive;
+    text-transform: uppercase;
+    font-size: 13px;
+    word-spacing: 23px;
+    letter-spacing: 4px;
+}
+.btn a{
+    display: block;
+    width: 200px;
+    height: 35px;
+    border: 2px solid #722f72;
+    color: #0f0f0f;
+    display: block;
+    margin: 25px auto 0;
+    text-align: center; 
 }
 
 .main_container{
@@ -30,34 +49,35 @@ p{
 }
 
 .logo a{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Comforter Brush', cursive;
     font-size: 34px;
     color: rgb(172, 56, 56);
 }
 
-.navbar .navbar_list ul{
+.navbar .navbar_items ul{
     display: flex;
 
 }
-.navbar .navbar_list ul li{
+.navbar .navbar_items ul li{
     text-transform: uppercase;
     margin: 0 10px;
 }
 
-.navbar .navbar_list ul li a{
+.navbar .navbar_items ul li a{
     color: rgb(202, 156, 38);
 }
 
 /* home page banner image */
 
 .banner_iamge{
-    background: url("iamges/cakebanner.jpg") no-repeat top center;
+    background: url('../css/images/cakebanner.jpg')no-repeat center; 
     background-size: cover;
     width: 100%;
     height: 600px;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 .banner_content{
     text-align: center;
@@ -71,4 +91,35 @@ p{
 .banner_content h1 span{
     color:rgb(172, 56, 56) ;
 
+}
+/* About us page */
+.about{
+    padding:5% 10%;
+    text-align: center;
+}
+/* Services */
+.services{
+	background: #ceb3b3;
+    padding:5% 10%;
+    text-align: center;
+}
+
+.diff_services {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.diff_services .diff_services_item {
+    width: 30%;
+}
+
+.diff_services .diff_services_item img {
+    width: 100%;
+    margin-bottom: 25px;
+}
+
+.diff_services .diff_services_item h3 {
+    color: #723f53;
+    margin-bottom: 15px;
 }
