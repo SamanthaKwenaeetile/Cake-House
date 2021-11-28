@@ -26,6 +26,7 @@ p{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    position: absolute;
 }
 
 .logo a{
@@ -41,4 +42,33 @@ p{
 .navbar .navbar_list ul li{
     text-transform: uppercase;
     margin: 0 10px;
+}
+
+.navbar .navbar_list ul li a{
+    color: rgb(202, 156, 38);
+}
+
+/* home page banner image */
+
+.banner_iamge{
+    background: url("iamges/cakebanner.jpg") no-repeat top center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner_content{
+    text-align: center;
+    color: rgb(180, 82, 131);
+}
+.banner_content h1{
+    text-transform: uppercase;
+    line-height: 38px;
+    margin-bottom: 15px;
+}
+.banner_content h1 span{
+    color:rgb(172, 56, 56) ;
+
 }
