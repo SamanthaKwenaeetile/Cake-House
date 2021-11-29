@@ -4,3 +4,4 @@ This website that i have created for a barkery , Cake House. My website will be 
 
 The users of the website the cake house can view the services that the barkery offer,the time in which it is open, can get in contact for help ,cake enquiryies or general enquiryies.
 
+my website is for current and potential customers who are looking for a cake shop in thier local area of east belfast. 
