@@ -378,7 +378,7 @@ body {
 
 @media only screen and (max-width: 1150px) {
   .profiles {
-    flex-direction: column
+    flex-direction: column;
   }
 
   .profile {
@@ -476,4 +476,22 @@ form {
     background: #f0ec04; 
   }
   
+  /* iframe video */
+
+.iframe-container{
+    position: relative;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height:0;
+}
+.iframe-container iframe{
+    position:absolute
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+
  
