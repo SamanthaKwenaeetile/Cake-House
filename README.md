@@ -4,7 +4,7 @@ This website that i have created for a barkery. Cake House. My website will be u
 
 
 Inline-style: 
-![alt text](https://github.com/![cakehouse-png](https://user-images.githubusercontent.com/74901613/144978731-7fce5863-a8c0-4f2c-9261-c523cef100f4.png)
+![alt text]([cakehouse-png](https://user-images.githubusercontent.com/74901613/144978731-7fce5863-a8c0-4f2c-9261-c523cef100f4.png)
  "image website 1")
 
 Features
