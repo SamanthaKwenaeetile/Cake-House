@@ -24,11 +24,13 @@ __The landing page image__
 
 The lading includes a picture with text overlay to welcome the customers to the site. The lading section introduces the users to the cake house with an eye catching animation to grab thier attention.
 
-<img width="1270" alt="Screenshot 2021-12-10 at 2 37 30 am" src="https://user-images.githubusercontent.com/74901613/145507918-df62b442-cf23-4c76-8140-5540d188a11e.png">
+<img width="1418" alt="Screenshot 2021-12-10 at 9 13 23 am" src="https://user-images.githubusercontent.com/74901613/145550050-2622bbd0-81d1-42eb-b06f-4c4603563c58.png">
 
 __About Us__
 
 - This section will allow the user to get to know all about the cake house. It will also display a youtube video to give the user more information about the cake house.
+
+<img width="1412" alt="Screenshot 2021-12-10 at 9 07 52 am" src="https://user-images.githubusercontent.com/74901613/145550333-a36b41a1-d791-4fef-9442-1e085c8bfb64.png">
 
  __Our services and times section__
 
@@ -40,7 +42,7 @@ __About Us__
 
   - The footer section includes links to the relevant social media sites for the cake house. The links will open to a new tab to allow easy navigation for the user. The footer is valuable to the user as it encourages them to keep connected via social media
 
-<img width="714" alt="Screenshot 2021-12-10 at 2 39 25 am" src="https://user-images.githubusercontent.com/74901613/145508082-e15969e6-f12f-48bb-b0d6-b22ae37fe130.png">
+<img width="1421" alt="Screenshot 2021-12-10 at 9 08 04 am" src="https://user-images.githubusercontent.com/74901613/145550263-55ee3a24-f2d1-4f82-a689-1dfaf5ecc708.png">
 
 
  __Contact Us__
@@ -53,7 +55,8 @@ __About Us__
 
   - This page will allow the user to subscribe to the cake house news letter. The user will be asked to submit thier name and email address and then select to subrscribe to the daily news letter from cake house.
 
-![Screenshot 2021-12-09 at 3 55 37 am](https://user-images.githubusercontent.com/74901613/145508214-5391f1e7-6797-4ac7-96bd-16e52b87cd4a.png)
+<img width="564" alt="Screenshot 2021-12-10 at 9 26 21 am" src="https://user-images.githubusercontent.com/74901613/145550568-6579beef-130b-4345-94d3-4ff8ae5ebfe5.png">
+
 
 
 ### Features Left to Implement
