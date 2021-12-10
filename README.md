@@ -59,13 +59,16 @@ __Top__
 -This a feature that allows the user to click on it and it take them to the top of the page.
 
 ### All Pages
-form and submit button
-- The form 'Subscribe to our Newsletter!'allows users to complete a form and submit their details to sign up to the barkery 's newsletter. Each of the form's fields are required. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
-Social media links 
+__The form and submit button__
+- The form and submit button 'Subscribe to our Newsletter!'allows users to complete a form and submit their details to sign up to the barkery 's newsletter. Each of the form's fields are required. Currently, no further action is taken when the 'Submit' button is clicked - this is a limitation due to the scope of the project.
+
+__Social media links__
 - Each link opens a new page with the relevant social media page for the barkery (Facebook, Twitter and YouTube). These links make it easy for users to access the barkery's social media profiles from one place. The social media profiles load in a new tab, which allows users to then return to the site.
- Navigation links
+
+ __Navigation links__
  - Allows users to navigate around my website by clicking each navigation link, which redirects them to the relevant webpage on the site.
- Scrollbar
+ 
+ __Scrollbar__
 - This a feature that allows the user to scroll up and down the page.
 - The scrollbar with be yellow to go with the colour theme of the page.
 
@@ -74,7 +77,7 @@ Social media links
 __Footer social media links__
 - These have the same function as the social media links in the navigation bar/header. They are displayed in the centre of the footer, above the ' Newsletter' call to action buttion on extra small and small screens. They are displayed to the center in the footer.
 
-Footer 'Subscribe to our Newsletter' call to action button
+__Footer 'Subscribe to our Newsletter' call to action button__
 - This is a submite button which users are able to click, and it allows them to then complete further steps to subsribe for the barkery's newsletter.
 - This is displayed in the centre of the footer, above the social media links on extra small and small screens. It is displayed to the left in the footer on medium to extra large screens
 
@@ -95,42 +98,31 @@ __About us.html__
 
 ### Validator Testing
 
- HTML
+ __HTML__
   - Four errors were returned when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
- CSS
+ __CSS__
   - Three errors were found when passing through the official [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io%2F)
 
 ## Deployment
 
 GitPod was used to write all code in this repository and pushed via Git to GitHub.
 
-#Using Git Hub Pages
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+-In the GitHub repository, navigate to the Settings tab
+-From the source section drop-down menu, select the Master Branch
+-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-*Navigate to the gitHub Repository:(https://samanthakwenaeetile.github.io/Cake-House/)
-*Click the 'Settings' Tab.
-*Scroll down to the GitHub Pages heading.
-*Click the Save button.
-*Click the link to go to the live deployed page.
-
-#Run Locally
-
-*Navigate to the GitHub Repository:
-*Click the Code drop down menu.
-*Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
-*Open your developement editor of choice and open a terminal window in a directory of your choice.
-*Use the 'git clone' command in terminal followed by the copied git URL.
-*A clone of the project will be created locally on your machine.
-
+The live link can be found here (https://samanthakwenaeetile.github.io/Cake-House/)
 ## Credits 
 
 ### Content 
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- All copy was written by the developer, except for the infromation sprinkled throughout was from a barkery - https://www.jbirdbakery.com/ 
+- All text was written by the developer, except for the infromation sprinkled throughout was from a barkery - https://www.jbirdbakery.com/ 
 - The images used where taken from google images for the site.
 
 ### code snippets 
-* All code was written entirely by the developer, except for code that was adapted from the following places:
+ All code was written entirely by the developer, except for code that was adapted from the following places:
 - https://www.w3schools.com/html/html5_video.asp - YouTube video - HTML Video
 - https://www.w3schools.com/html/html_links.asp - HTML Links - Syntax
 - https://codepen.io/chriscoyier/pen/GRJpopp - fixed header 
