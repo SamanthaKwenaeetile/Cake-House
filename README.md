@@ -26,6 +26,10 @@ The lading includes a picture with text overlay to welcome the customers to the 
 
 <img width="1270" alt="Screenshot 2021-12-10 at 2 37 30 am" src="https://user-images.githubusercontent.com/74901613/145507918-df62b442-cf23-4c76-8140-5540d188a11e.png">
 
+__About Us__
+
+- This section will allow the user to get to know all about the cake house. It will also display a youtube video to give the user more information about the cake house.
+
  __Our services and times section__
 
   - This section will allow the user to see exactly when the store will be open and closed. This section will also be updated as these times can change to keep the users up to date.
@@ -137,5 +141,6 @@ The live link can be found here (https://samanthakwenaeetile.github.io/Cake-Hous
 
 - Favicon from https://favicon.io/emoji-favicons/birthday-cake/
 - The photos used on the site are from google images.
+- Youtube video from https://www.youtube.com/embed/WybAY12ufjw"
 
 
