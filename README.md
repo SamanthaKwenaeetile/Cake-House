@@ -93,9 +93,6 @@ __About us.html__
 - Welocmes the users to the site. the vister can view and read the infromation that is in display informing them about the cake house. 
 - The will be a video that the users can click and play to learn more about cake house.
 
-## Testing
-
-
 ### Validator Testing
 
  HTML
@@ -103,118 +100,50 @@ __About us.html__
  CSS
   - Three errors were found when passing through the official [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io%2F)
 
-### Unfixed Bugs
-
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
-
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+GitPod was used to write all code in this repository and pushed via Git to GitHub.
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+#Using Git Hub Pages
 
-The live link can be found here - (https://samanthakwenaeetile.github.io/Cake-House/)
+*Navigate to the gitHub Repository:(https://samanthakwenaeetile.github.io/Cake-House/)
+*Click the 'Settings' Tab.
+*Scroll down to the GitHub Pages heading.
+*Click the Save button.
+*Click the link to go to the live deployed page.
+
+#Run Locally
+
+*Navigate to the GitHub Repository:
+*Click the Code drop down menu.
+*Either Download the ZIP file, unpackage locally and open with IDE (This route ends here) OR Copy Git URL from the HTTPS dialogue box.
+*Open your developement editor of choice and open a terminal window in a directory of your choice.
+*Use the 'git clone' command in terminal followed by the copied git URL.
+*A clone of the project will be created locally on your machine.
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- All copy was written by the developer, except for the infromation sprinkled throughout was from a barkery - https://www.jbirdbakery.com/ 
+- The images used where taken from google images for the site.
+
+### code snippets 
+* All code was written entirely by the developer, except for code that was adapted from the following places:
+- https://www.w3schools.com/html/html5_video.asp - YouTube video - HTML Video
+- https://www.w3schools.com/html/html_links.asp - HTML Links - Syntax
+- https://codepen.io/chriscoyier/pen/GRJpopp - fixed header 
+- https://www.w3schools.com/howto/howto_css_fixed_menu.asp -fixed menu 
+- https://www.w3schools.com/howto/howto_js_hover_tabs.asp - hover tabs
+- https://www.w3schools.com/howto/howto_js_topnav_responsive.asp - responsive topnav
+- https://www.w3schools.com/howto/howto_css_newsletter.asp - newsletter
+- https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp - customer scrollbar
+- Love runing code snippet form meetup time section.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- Favicon from https://favicon.io/emoji-favicons/birthday-cake/
+- The photos used on the site are from google images.
 
 
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Credits
-
-Code
-
-All code was written entirely by the developer, except for code that was adapted from the following places:
-
-scrollbar
-diff_servies-services
-hover buttons - about us, follow our socials and navbar
-topnav
-newsletter
-contact-wrap
-
-
-Copy
-All copy was written by the developer, except for the infromation sprinkled throughout was from a barkery - https://www.jbirdbakery.com/ 
-
-Media
-All images are hosted by image owners and were found using Google.
-
-No permissions have been given for the use of these images, and all images are shots from movies or promotional posters. As per UK copyright laws, these are lesser versions than the originals and are used to add context and not simply for decorative purposes.
-
-Information
-I consulted a range of informational sources to complete this project. They are listed here:
-
--
--
--
--
-
-Acknowledgements
-I would like to thank:
-
-Code Institute for the material
