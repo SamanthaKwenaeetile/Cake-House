@@ -18,44 +18,41 @@ __Navigation Bar__
 
 The navigation bar is featured on all the four pages, it is fullly responsive bar that links to the pages: which are home page, about us, contact us, meet our team, our services and times that makes it easy navigation on the site.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Screenshot 2021-12-09 at 4 01 59 am](https://user-images.githubusercontent.com/74901613/145507801-7d6e2e29-de06-4d33-86cf-94e3dab2afcb.png)
 
 __The landing page image__
 
 The lading includes a picture with text overlay to welcome the customers to the site. The lading section introduces the users to the cake house with an eye catching animation to grab thier attention.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+<img width="1270" alt="Screenshot 2021-12-10 at 2 37 30 am" src="https://user-images.githubusercontent.com/74901613/145507918-df62b442-cf23-4c76-8140-5540d188a11e.png">
 
  __Our services and times section__
 
   - This section will allow the user to see exactly when the store will be open and closed. This section will also be updated as these times can change to keep the users up to date.
 
-![our services and times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Screenshot 2021-12-09 at 3 56 21 am](https://user-images.githubusercontent.com/74901613/145507955-ab6561ae-20f6-4cb0-95f7-f23f6123ea1c.png)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for the cake house. The links will open to a new tab to allow easy navigation for the user. The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+<img width="714" alt="Screenshot 2021-12-10 at 2 39 25 am" src="https://user-images.githubusercontent.com/74901613/145508082-e15969e6-f12f-48bb-b0d6-b22ae37fe130.png">
+
 
  __Contact Us__
 
   - This page will allow the user to get in contact with the cake house, to make inquiries. The user will be asked to submit their full name, email address, subject and message.
 
-![contact](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Screenshot 2021-12-09 at 3 55 25 am](https://user-images.githubusercontent.com/74901613/145508151-6950b1b7-bc2f-4918-ac3e-01a725a3e140.png)
 
  __Subscribe to our Newsletter__
 
   - This page will allow the user to subscribe to the cake house news letter. The user will be asked to submit thier name and email address and then select to subrscribe to the daily news letter from cake house.
 
-![subscribe](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Screenshot 2021-12-09 at 3 55 37 am](https://user-images.githubusercontent.com/74901613/145508214-5391f1e7-6797-4ac7-96bd-16e52b87cd4a.png)
+
 
 ### Features Left to Implement
-
- __Scrollbar__
-
-- This a feature that allows the user to scroll up and down the page.
-- The scrollbar with be yellow to go with the colour theme of the page.
 
 __Top__
 
@@ -68,6 +65,9 @@ Social media links
 - Each link opens a new page with the relevant social media page for the barkery (Facebook, Twitter and YouTube). These links make it easy for users to access the barkery's social media profiles from one place. The social media profiles load in a new tab, which allows users to then return to the site.
  Navigation links
  - Allows users to navigate around my website by clicking each navigation link, which redirects them to the relevant webpage on the site.
+ Scrollbar
+- This a feature that allows the user to scroll up and down the page.
+- The scrollbar with be yellow to go with the colour theme of the page.
 
 ### All Pages (exluding index.html)
 
