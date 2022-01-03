@@ -128,8 +128,9 @@ body {
 /* Services */
 .services {
   background: #f7f3f3;
-  padding: 5% 10%;
   text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 .diff_services {
