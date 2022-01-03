@@ -107,6 +107,8 @@ body {
 .about {
   padding: 5% 10%;
   text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 .btn {
@@ -127,7 +129,7 @@ body {
 
 /* Services */
 .services {
-  background: #f7f3f3;
+  
   text-align: center;
   margin: auto;
   width: 50%;
@@ -149,7 +151,7 @@ body {
 }
 
 .diff_services .diff_services_item h3 {
-  color: #723f53;
+  
   margin-bottom: 15px;
 }
 
