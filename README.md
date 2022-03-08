@@ -103,22 +103,48 @@ __About us.html__
 - Welocmes the users to the site. the vister can view and read the infromation that is in display informing them about the cake house. 
 - The will be a video that the users can click and play to learn more about cake house.
 
-## Testing
 
+## Testing
+- I have tested the site in the Chrome, Firefox and Edge browsers, using dev tools to test responsiveness. I have also asked users to review on mobiles on both Android and IOS and had no issues using the site.
+(http://ami.responsivedesign.is/#)
+[Responsiveness of website]<img width="1439" alt="Screenshot 2022-03-08 at 9 51 04 am" src="https://user-images.githubusercontent.com/74901613/157212019-16ca5c44-666d-414a-82eb-9a4569aa412e.png">
+
+
+## Wireframes 
+To help organise how I was going to approach building the site I first got my initial ideas down onto some wireframe to help guide me through the basic layout of the site as I implemented various features. Shown below:
+
+<img width="810" alt="Screenshot 2022-03-08 at 10 16 58 am" src="https://user-images.githubusercontent.com/74901613/157216424-da5c35c4-f59c-48df-a67c-6d0494d150f2.png">
+
+[about us] <img width="790" alt="Screenshot 2022-03-08 at 10 21 03 am" src="https://user-images.githubusercontent.com/74901613/157217147-3e23544d-3a8e-410d-9e42-8fac7fc0e803.png">
+
+[services] <img width="662" alt="Screenshot 2022-03-08 at 10 32 56 am" src="https://user-images.githubusercontent.com/74901613/157219096-577b737b-6952-4ab6-89f7-8ca99ab32d32.png">
+
+[meet the team]<img width="769" alt="Screenshot 2022-03-08 at 10 26 30 am" src="https://user-images.githubusercontent.com/74901613/157217924-77fe1bcc-0751-4aba-8b81-5142b8025362.png">
+
+[contact us]<img width="676" alt="Screenshot 2022-03-08 at 10 30 52 am" src="https://user-images.githubusercontent.com/74901613/157218711-8ccd35dc-e783-4484-8a32-49582a84addc.png">
 
 ### Validator Testing
 
  __HTML__
   - I used W3C Validator to validate my HTML code I had no errors.
- [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+ [W3C validator](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&doc=https%3A%2F%2F8000-samanthakwenaee-cakehous-v9zv9r05hd3.ws-eu34xl.gitpod.io%2F%23services#l214c10)
 
  ![W3C screensot]<img width="1428" alt="Screenshot 2022-03-08 at 5 03 31 am" src="https://user-images.githubusercontent.com/74901613/157205115-4ec3aa5a-c9f0-42a3-b0ca-56d68477bb06.png">
  
  __CSS__
   - I used Jigsaw Validator to validate my CSS code I had no errors.
-  [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io%2F)
+  [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2F8000-samanthakwenaee-cakehous-v9zv9r05hd3.ws-eu34xl.gitpod.io%2F%23Meet-Our-Team&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
  ![Jigsaw screensot] <img width="1426" alt="Screenshot 2022-03-08 at 8 54 18 am" src="https://user-images.githubusercontent.com/74901613/157206457-4d3a24d9-d37e-453a-b3ea-5a602a09846c.png">
+
+
+### Gtmetrix
+
+[Gtmetix Performance Report] <img width="1430" alt="Screenshot 2022-03-08 at 10 00 07 am" src="https://user-images.githubusercontent.com/74901613/157213611-4a4f0e79-5278-489f-a4cb-4c0578ea3cbe.png">
+
+Whilst the site was designed as Desktop First extensive testing has been done to ensure the site is fully responsive on smaller screens. As well as tesing in dev tools and using various mobile devices I also used (http://ami.responsivedesign.is/#) to check for responsiveness. No website breaking issues were found. As the site changed in size I identified 4 key widths where changes needed to be made.
+
+- All pages have been tested with Gtemtrix for both mobile and desktop versions, with all pages scoring above 96 on performace. 
 
 
 ## Deployment
@@ -131,6 +157,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 -Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here (https://samanthakwenaeetile.github.io/Cake-House/)
+
 ## Credits 
 
 ### Content 
@@ -157,4 +184,6 @@ The live link can be found here (https://samanthakwenaeetile.github.io/Cake-Hous
 - The photos used on the site are from google images.
 - Youtube video from https://www.youtube.com/embed/WybAY12ufjw"
 
+### Thanks 
+- Thanks to Ger and James code institute tutors who's advice and guidance supported me in the completion of this project
 
