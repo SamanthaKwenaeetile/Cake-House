@@ -4,8 +4,13 @@
 body {
   margin: 0;
   font-family: 'Baloo Bhaijaan 2', cursive;
-
-
+}
+html,body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
 }
 
 .topnav {
@@ -54,32 +59,11 @@ body {
 .topnav-right {
   float: right;
 }
-
-
-
-/* Responsive navigation menu (for mobile devices) */
-@media screen and (max-width: 600px) {
-
-  .topnav a,
-  .topnav-right {
-    float: none;
-    display: block;
-  }
-
-  .topnav-centered a {
-    position: relative;
-    top: 0;
-    left: 0;
-    transform: none;
-  }
-}
-
 /* home page banner image */
 
 .banner_iamge {
   background: url('../css/images/cakebanner2.jpeg')no-repeat center;
   background-size: cover;
-  width: 100%;
   height: 600px;
   display: flex;
   justify-content: center;
@@ -104,7 +88,7 @@ body {
 }
 
 /* About us page */
-.about {
+.about-us {
   padding: 5% 10%;
   text-align: center;
   margin: auto;
@@ -115,10 +99,10 @@ body {
   background-color: #f4511e;
   border: none;
   color: white;
-  padding: 16px 32px;
+  padding: 11px 23px;
   text-align: center;
   font-size: 16px;
-  margin: 4px 2px;
+  margin: 2px 2px;
   opacity: 0.6;
   transition: 0.3s;
 }
@@ -129,10 +113,8 @@ body {
 
 /* Services */
 .services {
-  
-  text-align: center;
   margin: auto;
-  width: 50%;
+  text-align: center;
 }
 
 .diff_services {
@@ -162,6 +144,7 @@ body {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
+  padding: 5% 10%;
 }
 
 .contact-in {
@@ -257,7 +240,7 @@ body {
   padding-left: 5px;
   background: transparent;
   color: rgb(68, 47, 47);
-  font-size: 12px;
+  font-size: 5px;
   font-weight: 300;
   font-family: 'Noto Sans', sans-serif;
 }
@@ -276,8 +259,8 @@ body {
   padding-left: 5px;
   background: transparent;
   color: #fff;
-  font-size: 12px;
-  font-weight: 300;
+  font-size: 5px;
+  font-weight: 100;
   font-family: 'Poppins', sans-serif;
 }
 
@@ -292,45 +275,15 @@ body {
   outline: none;
   background: transparent;
   color: rgb(226, 162, 162);
-  font-size: 12px;
-  font-weight: 300;
+  font-size: 5px;
+  font-weight: 100;
   font-family: 'Poppins', sans-serif;
   cursor: pointer;
 }
 
-.contact-in iframe {
-  width: 100%;
-  height: 100%;
-}
-
-@media only screen and (max-width:480px) {
-  .contact-in:nth-child(1) {
-    flex: 50%;
-  }
-
-  .contact-in:nth-child(2) {
-    flex: 50%;
-  }
-
-  .contact-in:nth-child(3) {
-    flex: 100%;
-  }
-
-}
-
-@media only screen and (max-width:360px) {
-  .contact-in:nth-child(1) {
-    flex: 50%;
-  }
-
-  .contact-in:nth-child(2) {
-    flex: 50%;
-  }
-
-  .contact-in:nth-child(3) {
-    flex: 100%;
-  }
-
+ iframe {
+  width: 100% !important;
+  height: auto !important;
 }
 
 /* Open times */
@@ -354,23 +307,25 @@ body {
   text-align: center;
   border: 2px solid white;
   box-sizing: border-box;
-  font-size: small;
+  font-size: 9px;
 }
 
 #times h2 {
   color: #fafafa;
 }
 
-/* Our Team */
-.heading {
-  padding: 5% 10%;
+/* Meet Our Team */
+.meet-our-team {
   text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
 .profiles {
   display: flex;
   justify-content: space-around;
   margin: 20px 80px;
+  padding: 5% 10%;
 }
 
 .profile {
@@ -512,18 +467,65 @@ input[type=submit]:hover {
   background: #f0ec04;
 }
 
-/* Move copyright author to left for smaller screens*/
-.copyright {
-  align-self: left;
+/* media screens - fixed it did not work across various devices/screen sizes*/
+
+
+@media (max-width: 1400px) {
+  .form-bg {
+    transform: rotate(0);
+    height: 55rem;
+  }
 }
 
-.contact-us-info,
-.app-info {
-  display: flex;
-  flex-direction: column;
-  align-items: left;
+@media (max-width: 1000px) {
+  .heading {
+    font-size: 5rem;
+  }
+
+  .form-bg {
+    width: 55rem;
+    height: 50rem;
+    margin-bottom: 10rem;
+  }
+
+  .form input {
+    width: 40rem;
+  }
 }
 
-.app-info p {
-  padding-left: 0;
+@media (max-width: 700px) {
+  html {
+    font-size: 55%;
+  }
+
+  .heading {
+    font-size: 4rem;
+    top: 2rem;
+  }
+
+  .buttons {
+    left: 2rem;
+    top: 2rem;
+  }
+
+  .buttons button {
+    width: 7rem;
+    height: 3rem;
+    font-size: 1.7rem;
+  }
+
+  .form-bg {
+    height: 45rem;
+    width: 45rem;
+  }
+
+  .form input {
+    width: 35rem;
+  }
+}
+
+@media (max-width: 450px) {
+  html {
+    font-size: 42%;
+  }
 }

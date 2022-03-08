@@ -103,12 +103,23 @@ __About us.html__
 - Welocmes the users to the site. the vister can view and read the infromation that is in display informing them about the cake house. 
 - The will be a video that the users can click and play to learn more about cake house.
 
+## Testing
+
+
 ### Validator Testing
 
  __HTML__
-  - Four errors were returned when passing through the official [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  - I used W3C Validator to validate my HTML code I had no errors.
+ [W3C validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+ ![W3C screensot]<img width="1428" alt="Screenshot 2022-03-08 at 5 03 31 am" src="https://user-images.githubusercontent.com/74901613/157205115-4ec3aa5a-c9f0-42a3-b0ca-56d68477bb06.png">
+ 
  __CSS__
-  - Three errors were found when passing through the official [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io%2F)
+  - I used Jigsaw Validator to validate my CSS code I had no errors.
+  [(Jigsaw) validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fwhite-yak-ib8w1r48.ws-eu21.gitpod.io%2F)
+
+ ![Jigsaw screensot] <img width="1426" alt="Screenshot 2022-03-08 at 8 54 18 am" src="https://user-images.githubusercontent.com/74901613/157206457-4d3a24d9-d37e-453a-b3ea-5a602a09846c.png">
+
 
 ## Deployment
 
