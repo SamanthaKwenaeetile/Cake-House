@@ -115,13 +115,17 @@ To help organise how I was going to approach building the site I first got my in
 
 <img width="810" alt="Screenshot 2022-03-08 at 10 16 58 am" src="https://user-images.githubusercontent.com/74901613/157216424-da5c35c4-f59c-48df-a67c-6d0494d150f2.png">
 
-[about us] <img width="790" alt="Screenshot 2022-03-08 at 10 21 03 am" src="https://user-images.githubusercontent.com/74901613/157217147-3e23544d-3a8e-410d-9e42-8fac7fc0e803.png">
+* about us
+ <img width="790" alt="Screenshot 2022-03-08 at 10 21 03 am" src="https://user-images.githubusercontent.com/74901613/157217147-3e23544d-3a8e-410d-9e42-8fac7fc0e803.png">
 
-[services] <img width="662" alt="Screenshot 2022-03-08 at 10 32 56 am" src="https://user-images.githubusercontent.com/74901613/157219096-577b737b-6952-4ab6-89f7-8ca99ab32d32.png">
+* services
+ <img width="662" alt="Screenshot 2022-03-08 at 10 32 56 am" src="https://user-images.githubusercontent.com/74901613/157219096-577b737b-6952-4ab6-89f7-8ca99ab32d32.png">
 
-[meet the team]<img width="769" alt="Screenshot 2022-03-08 at 10 26 30 am" src="https://user-images.githubusercontent.com/74901613/157217924-77fe1bcc-0751-4aba-8b81-5142b8025362.png">
+* meet the team
+<img width="769" alt="Screenshot 2022-03-08 at 10 26 30 am" src="https://user-images.githubusercontent.com/74901613/157217924-77fe1bcc-0751-4aba-8b81-5142b8025362.png">
 
-[contact us]<img width="676" alt="Screenshot 2022-03-08 at 10 30 52 am" src="https://user-images.githubusercontent.com/74901613/157218711-8ccd35dc-e783-4484-8a32-49582a84addc.png">
+* contact us
+<img width="676" alt="Screenshot 2022-03-08 at 10 30 52 am" src="https://user-images.githubusercontent.com/74901613/157218711-8ccd35dc-e783-4484-8a32-49582a84addc.png">
 
 ### Validator Testing
 
